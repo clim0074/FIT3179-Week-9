@@ -1,6 +1,4 @@
-Country,Active_military,Reserve_military,Paramilitary,Total,"Per_1000_capita
-(total)","Per_1000_capita
-(active)"
+Country,Active_military,Reserve_military,Paramilitary,Total,"Per_1000_capita_(total)","Per_1000_capita_(active)"
 Afghanistan,250000,75000,170000,495000,14.2,7.2
 Albania,8000,0,0,8000,2.6,2.6
 Algeria,130000,150000,187200,467200,11.2,3.1
